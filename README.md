@@ -23,4 +23,3 @@ Use it as you wish, CC0 license
 ## Conclusion
 **Use a proper IDE, and don't try to glue together Notepad and Explorer in front of the console!**
 
-## ♨_♨
